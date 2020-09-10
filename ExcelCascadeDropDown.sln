@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelCascadeDropDown", "ExcelCascadeDropDown\ExcelCascadeDropDown.csproj", "{39FD9CAE-04FA-4EFC-A348-5B7C5762A58A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper", "Helper\Helper.csproj", "{B4B1093A-A3CC-42EC-8230-753FABB9D9BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{FA6185C1-0B36-43CA-B9B5-FEC0825120F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39FD9CAE-04FA-4EFC-A348-5B7C5762A58A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FD9CAE-04FA-4EFC-A348-5B7C5762A58A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FD9CAE-04FA-4EFC-A348-5B7C5762A58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FD9CAE-04FA-4EFC-A348-5B7C5762A58A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4B1093A-A3CC-42EC-8230-753FABB9D9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B1093A-A3CC-42EC-8230-753FABB9D9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B1093A-A3CC-42EC-8230-753FABB9D9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B1093A-A3CC-42EC-8230-753FABB9D9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C8064D8-EED2-4B5B-8100-622A76836E2B}
+	EndGlobalSection
+EndGlobal
