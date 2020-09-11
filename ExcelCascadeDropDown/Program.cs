@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Helper;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +11,8 @@ namespace ExcelCascadeDropDown
     {
         static void Main(string[] args)
         {
-
+            ExcelHelper excelHelper = new ExcelHelper();
+            excelHelper.ExportExcel();
         }
     }
 }
